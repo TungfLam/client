@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello hello react 12122
+          Hello hello react test 2
         </p>
       </header>
     </div>
